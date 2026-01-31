@@ -16,7 +16,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=harihara-1869&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-![Profile Views](https://visitcount.itsvg.in/api?id=harihara-1869)
+![Profile Views](https://komarev.com/ghpvc/?username=harihara-1869&style=flat-square)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
