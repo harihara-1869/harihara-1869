@@ -1,22 +1,66 @@
-# 💫 About Me:
-🔭 I’m currently working on on signal protocol implementation on my chat app<br>🌱 I’m currently learning flutter<br>⚡ Fun fact: The concept of zero and the decimal system, fundamental to mathematics, was developed in India.
+```
+  _                _ _                           _  ___   __   ___  
+ | |__   __ _ _ __(_) |__   __ _ _ __ __ _      / |( _ ) / /_ / _ \ 
+ | '_ \ / _` | '__| | '_ \ / _` | '__/ _` |_____| |/ _ \| '_ \ (_) |
+ | | | | (_| | |  | | | | | (_| | | | (_| |_____| | (_) | (_) \__, |
+ |_| |_|\__,_|_|  |_|_| |_|\__,_|_|  \__,_|     |_|\___/ \___/  /_/ 
+                                                                    
+```
+
+# Hi 👋, I'm Hari Hara
+
+### 2nd Year Computer Science Student at RVCE, Bengaluru
+
+Building full-stack web applications with MERN while staying curious about systems and low-level programming.
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/animplays_1869) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/harihara_1869) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hari-hara-1869nice) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harihara1869@gmail.com) 
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Vitest](https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=harihara-1869&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=harihara-1869&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=harihara-1869&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## About Me
+
+- 🎓 2nd Year CS Student at RVCE
+- 🌐 Currently focused on Full-Stack Web Development
+- ⚙️ Interested in Systems Programming, Embedded Systems, and Performance
+- 🚀 Open to internships and collaborative opportunities
+
+Recently, I've worked on both web and embedded projects, including firmware development for Formula EV 2025 and a real-time industrial IoT dashboard powered by Next.js and Azure IoT Hub.
 
 
+
+## Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,linux,git,azure,flutter,dart,fastapi,nginx,postman,matlab" />
+</p>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=harihara-1869&style=flat-square)
+
+### Featured Projects
+
+- [iot-dashboard](https://github.com/harihara-1869/iot-dashboard)
+  - Description: A real-time industrial IoT dashboard for intelligent motor monitoring and control, featuring live telemetry visualization, device management, predictive health diagnostics, remote terminal access, and seamless device provisioning through Azure IoT Hub.
+  - Live: https://iot-dashboard-alpha-smoky.vercel.app
+
+- [teamchimera_website2026](https://github.com/harihara-1869/teamchimera_website2026)
+  - Description: Team Chimera website for Formula EV 2026 (team website / frontend).
+  - Live: https://teamchimera-website2026.vercel.app
+
+- [Portfolio](https://github.com/harihara-1869/Portfolio)
+  - Description: Personal portfolio website built with React.
+  - Live: https://www.manidweepa.site
+
+
+- [Chat-App](https://github.com/harihara-1869/Chat-App)
+  - Description: A full-stack real-time chat application built with the MERN stack (MongoDB, Express, React, Node.js) and Socket.io. Features secure authentication, real-time messaging, image sharing, friend system, and a modern responsive UI.
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Connect With Me
+
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/harihara-1869)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/hari-hara-1869nice)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/harihara_1869)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:harihara1869@gmail.com)
+
+
+
+![](https://komarev.com/ghpvc/?username=harihara-1869&label=Profile%20Views&color=0e75b6&style=flat)
