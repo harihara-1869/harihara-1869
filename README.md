@@ -13,17 +13,14 @@
 
 Building full-stack web applications with MERN while staying curious about systems and low-level programming.
 
-
-
-## About Me
-
-- 🎓 2nd Year CS Student at RVCE
-- 🌐 Currently focused on Full-Stack Web Development
-- ⚙️ Interested in Systems Programming, Embedded Systems, and Performance
+- 🎓 2nd Year Computer Science Student at RVCE
+- 🔐 Currently building an NFC-based mutual authentication system using ESP-IDF, PN532, and Flutter
+- ⚙️ Interested in Systems Programming, Embedded Systems, Cryptography, and Performance
 - 🚀 Open to internships and collaborative opportunities
 
 Recently, I've worked on both web and embedded projects, including firmware development for Formula EV 2025 and a real-time industrial IoT dashboard powered by Next.js and Azure IoT Hub.
 
+I'm currently developing an NFC-based mutual authentication protocol inspired by the 3 Sigma protocol. The system uses a Flutter mobile application as the initiator and an ESP32 running ESP-IDF with a PN532 module acting as the PICC. The protocol incorporates Ed25519 for digital signatures, X25519 for key exchange, HKDF-SHA256 for key derivation, and AES-256-GCM for authenticated encryption.
 
 
 ## Tech Stack
@@ -32,9 +29,17 @@ Recently, I've worked on both web and embedded projects, including firmware deve
   <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts,react,nextjs,nodejs,express,mongodb,postgres,linux,git,azure,flutter,dart,fastapi,nginx,postman,matlab" />
 </p>
 
+<p align="left">
+  <img src="https://img.shields.io/badge/ESP--IDF-E7352C?style=flat-square&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/QEMU-FF6600?style=flat-square&logo=qemu&logoColor=white" />
+</p>
+
 ---
 
 ### Featured Projects
+
+- [pn_532 driver](https://github.com/harihara-1869/pn532_driver)
+  - Description: ESP-IDF v5.x driver for the NXP PN532 NFC controller. Implements the physical/link layer and a high-level command layer for NFC target (card emulation) operation.
 
 - [iot-dashboard](https://github.com/harihara-1869/iot-dashboard)
   - Description: A real-time industrial IoT dashboard for intelligent motor monitoring and control, featuring live telemetry visualization, device management, predictive health diagnostics, remote terminal access, and seamless device provisioning through Azure IoT Hub.
