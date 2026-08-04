@@ -14,13 +14,12 @@
 Building full-stack web applications with MERN while staying curious about systems and low-level programming.
 
 - 🎓 2nd Year Computer Science Student at RVCE
-- 🔐 Currently building an NFC-based mutual authentication system using ESP-IDF, PN532, and Flutter
-- ⚙️ Interested in Systems Programming, Embedded Systems, Cryptography, and Performance
+- ⚙️ Interested in Systems Programming, Embedded Systems, Cryptography
 - 🚀 Open to internships and collaborative opportunities
 
-Recently, I've worked on both web and embedded projects, including firmware development for Formula EV 2025 and a real-time industrial IoT dashboard powered by Next.js and Azure IoT Hub.
+My current interests lie at the intersection of embedded systems, IoT, and cybersecurity. I've worked on firmware for Formula EV, industrial IoT platforms powered by Azure IoT Hub, and low-level NFC communication using the PN532.
 
-I'm currently developing an NFC-based mutual authentication protocol inspired by the 3 Sigma protocol. The system uses a Flutter mobile application as the initiator and an ESP32 running ESP-IDF with a PN532 module acting as the PICC. The protocol incorporates Ed25519 for digital signatures, X25519 for key exchange, HKDF-SHA256 for key derivation, and AES-256-GCM for authenticated encryption.
+I'm currently prototyping a secure NFC smart lock system, implementing a custom mutual authentication protocol inspired by the 3 Sigma protocol. The system combines a Flutter mobile application with ESP32 firmware (ESP-IDF), using Ed25519, X25519, HKDF-SHA256, and AES-256-GCM to provide authenticated, end-to-end encrypted communication. I'm also diving deeper into embedded security, applied cryptography, and secure IoT system design.
 
 
 ## Tech Stack
@@ -38,24 +37,25 @@ I'm currently developing an NFC-based mutual authentication protocol inspired by
 
 ### Featured Projects
 
-- [pn_532 driver](https://github.com/harihara-1869/pn532_driver)
-  - Description: ESP-IDF v5.x driver for the NXP PN532 NFC controller. Implements the physical/link layer and a high-level command layer for NFC target (card emulation) operation.
+- [smart_lock_firmware](https://github.com/harihara-1869/smart_lock_firmware)
+  - Description: ESP-IDF firmware for a secure NFC-based smart lock, implementing mutual authentication, encrypted session establishment, and ISO-DEP communication for zero-trust access control.
+
+- [smart_lock_application](https://github.com/harihara-1869/smart_lock_application)
+  - Description: Flutter application for secure NFC smart lock authentication and management, featuring end-to-end encrypted communication, session key negotiation, and seamless access control.
+
+- [pn532_driver](https://github.com/harihara-1869/pn532_driver)
+  - Description: ESP-IDF v5.x driver for the NXP PN532 NFC controller, implementing the physical and link layers alongside a high-level command API for NFC target (card emulation) and ISO-DEP communication.
 
 - [iot-dashboard](https://github.com/harihara-1869/iot-dashboard)
-  - Description: A real-time industrial IoT dashboard for intelligent motor monitoring and control, featuring live telemetry visualization, device management, predictive health diagnostics, remote terminal access, and seamless device provisioning through Azure IoT Hub.
+  - Description: Real-time industrial IoT dashboard for intelligent motor monitoring and control, featuring live telemetry visualization, device management, predictive health diagnostics, remote terminal access, and Azure IoT Hub device provisioning.
   - Live: https://iot-dashboard-alpha-smoky.vercel.app
 
-- [teamchimera_website2026](https://github.com/harihara-1869/teamchimera_website2026)
-  - Description: Team Chimera website for Formula EV 2026 (team website / frontend).
-  - Live: https://teamchimera-website2026.vercel.app
-
 - [Portfolio](https://github.com/harihara-1869/Portfolio)
-  - Description: Personal portfolio website built with React.
+  - Description: Personal portfolio website built with React, showcasing projects, technical experience, and software engineering work.
   - Live: https://www.manidweepa.site
 
-
 - [Chat-App](https://github.com/harihara-1869/Chat-App)
-  - Description: A full-stack real-time chat application built with the MERN stack (MongoDB, Express, React, Node.js) and Socket.io. Features secure authentication, real-time messaging, image sharing, friend system, and a modern responsive UI.
+  - Description: Full-stack real-time chat application built with the MERN stack and Socket.IO, featuring JWT authentication, instant messaging, image sharing, friend management, and a responsive modern UI.
 
 
 
