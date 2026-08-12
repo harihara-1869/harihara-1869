@@ -37,12 +37,6 @@ I'm currently prototyping a secure NFC smart lock system, implementing a custom 
 
 ### Featured Projects
 
-- [smart_lock_firmware](https://github.com/harihara-1869/smart_lock_firmware)
-  - Description: ESP-IDF firmware for a secure NFC-based smart lock, implementing mutual authentication, encrypted session establishment, and ISO-DEP communication for zero-trust access control.
-
-- [smart_lock_application](https://github.com/harihara-1869/smart_lock_application)
-  - Description: Flutter application for secure NFC smart lock authentication and management, featuring end-to-end encrypted communication, session key negotiation, and seamless access control.
-
 - [pn532_driver](https://github.com/harihara-1869/pn532_driver)
   - Description: ESP-IDF v5.x driver for the NXP PN532 NFC controller, implementing the physical and link layers alongside a high-level command API for NFC target (card emulation) and ISO-DEP communication.
 
