@@ -9,11 +9,11 @@
 
 # Hi 👋, I'm Hari Hara
 
-### 2nd Year Computer Science Student at RVCE, Bengaluru
+### 3rd Year Computer Science Student at RVCE, Bengaluru
 
 Building full-stack web applications with MERN while staying curious about systems and low-level programming.
 
-- 🎓 2nd Year Computer Science Student at RVCE
+- 🎓 3rd Year Computer Science Student at RVCE
 - ⚙️ Interested in Systems Programming, Embedded Systems, Cryptography
 - 🚀 Open to internships and collaborative opportunities
 
